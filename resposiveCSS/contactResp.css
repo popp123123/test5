@@ -6,7 +6,7 @@
         padding: 20px;
     }
     .contact{
-        height: 248vw;
+        height: 269vw;
     }
     .form-page{
         display: flex;
@@ -31,6 +31,7 @@
         height: 39vw;
         width: 88vw;
         margin-left: -20px;
+        margin-top: 56px;
         font-size: 21px;
     }
     .mb-3{
