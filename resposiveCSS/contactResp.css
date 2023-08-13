@@ -15,7 +15,6 @@
     }
     .left{
         height: 86vw;
-        /* background-color: red; */
         width: 84vw;
         font-size: 19px;
         text-align: center;
@@ -31,7 +30,7 @@
     .right {
         height: 39vw;
         width: 88vw;
-        margin-left: -20px;
+        margin-left: -2px;
         font-size: 21px;
     }
     .mb-3{
